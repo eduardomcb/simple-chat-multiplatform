@@ -11,6 +11,8 @@ This is a cross-platform chat project in Kotlin that utilizes Compose to create 
 - Message serialization and deserialization using Gson.
 - Simple and elegant user interface created with Compose.
 
+https://github.com/eduardomcb/simple-chat-multiplatform/assets/116934175/29835a41-216c-48cc-9e7d-29733dfb7051
+
 ## How to Use
 
 ### Prerequisites
